@@ -2566,8 +2566,8 @@
                             "type": "radiogroup",
                             "name": "dataQualityDesign10",
                             "title": {
-                                "default": "Will the data used for this system be posted on the Open Government Portal?",
-                                "fr": "Les données utilisées pour ce système seront-elles affichées sur la portail du gouvernement ouvert?"
+                                "default": "Will the data used for this system be posted on the Open Data Portal?",
+                                "fr": "Les données utilisées pour ce système seront-elles affichées sur la portail de données ouvertes?"
                             },
                             "choices": [
                                 {
@@ -2826,8 +2826,8 @@
                             "type": "radiogroup",
                             "name": "dataQualityImplementation10",
                             "title": {
-                                "default": "Is the data used for this system posted on the Open Government Portal?",
-                                "fr": "Les données utilisées pour ce système seront-elles affichées sur la portail du gouvernement ouvert?"
+                                "default": "Is the data used for this system posted on the Open Data Portal?",
+                                "fr": "Les données utilisées pour ce système seront-elles affichées sur la portail de données ouvertes?"
                             },
                             "choices": [
                                 {
@@ -3254,8 +3254,8 @@
                             "type": "radiogroup",
                             "name": "fairnessDesign17",
                             "title": {
-                                "default": "Will you prepared a concept case to the Government of Canada Enterprise Architecture Review Board?",
-                                "fr": "Avez-vous préparé un dossier conceptuel à l'intention du Comité d'examen de l'architecture d'entreprise du gouvernement du Canada?"
+                                "default": "Will you prepared a concept case to an Enterprise Architecture Review Board?",
+                                "fr": "Avez-vous préparé un dossier conceptuel à l'intention d'un Comité d'examen de l'architecture d'entreprise?"
                             },
                             "choices": [
                                 {
@@ -3682,8 +3682,8 @@
                             "type": "radiogroup",
                             "name": "fairnessImplementation17",
                             "title": {
-                                "default": "Have you prepared a concept case to the Government of Canada Enterprise Architecture Review Board?",
-                                "fr": "Avez-vous préparé un dossier conceptuel à l'intention du Comité d'examen de l'architecture d'entreprise du gouvernement du Canada?"
+                                "default": "Have you prepared a concept case for an Enterprise Architecture Review Board?",
+                                "fr": "Avez-vous préparé un dossier conceptuel à l'intention d'un Comité d'examen de l'architecture d'entreprise?"
                             },
                             "choices": [
                                 {
